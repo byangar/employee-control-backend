@@ -1,9 +1,7 @@
 # Employee Control App
-The Employee Control Application is a full-stack solution for managing employee information. It is built using Spring Boot for the backend and React for the frontend. The application provides functionality to create, read, update and delete (CRUD) employee records.
+The Employee Control Application is a solution for managing employee information. It is built using Spring Boot for the backend. The application provides functionality to create, read, update and delete (CRUD) employee records.
 
 Technologies used:
-
-Frontend: React
 
 Backend: Spring Boot
 
